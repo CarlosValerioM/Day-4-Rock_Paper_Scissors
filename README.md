@@ -37,13 +37,13 @@ cd Day-4-Rock_Paper_Scissors
 ```
 Run the script:
 
-```bash
+```python
 python rockPaperScissors.py
 ```
 The script will prompt you to choose between Rock, Paper, or Scissors, and then display the result of the game (Win, Lose, or Tie).
 
 ## Example Output:
-```pgsql
+```python
 What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors: 0
     _______
 ---'    ____)
