@@ -62,21 +62,14 @@ What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors: 0
 It's a tie!
 ```
 ## How it works:
-The player inputs their choice of Rock (0), Paper (1), or Scissors (2).
-
-The computer generates a random number between 0 and 2 to represent its choice.
-
-The script compares both choices:
-
-Rock (0) beats Scissors (2)
-
-Scissors (2) beats Paper (1)
-
-Paper (1) beats Rock (0)
-
-If both choices are the same, it results in a tie.
-
-The script then displays the result: "You Win!", "You Lose!", or "It's a tie!"
+1. The player inputs their choice of Rock (0), Paper (1), or Scissors (2).
+2. The computer generates a random number between 0 and 2 to represent its choice.
+3. The script compares both choices:
+4. Rock (0) beats Scissors (2)
+5. Scissors (2) beats Paper (1)
+6. Paper (1) beats Rock (0)
+7. If both choices are the same, it results in a tie.
+8. The script then displays the result: "You Win!", "You Lose!", or "It's a tie!"
 
 ## License:
 This project is licensed under the MIT License.
