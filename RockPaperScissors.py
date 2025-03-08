@@ -29,9 +29,6 @@ Example Output:
 # Importing the random module to generate random numbers
 import random
 
-# The 'dis' module is imported here, but the 'print_instructions' function is not used in this code.
-from dis import print_instructions
-
 # ASCII art representations for Rock, Paper, and Scissors
 rock = ('''
     _______
