@@ -43,6 +43,7 @@ python rockPaperScissors.py
 The script will prompt you to choose between Rock, Paper, or Scissors, and then display the result of the game (Win, Lose, or Tie).
 
 ## Example Output:
+```pgsql
 What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors: 0
     _______
 ---'    ____)
@@ -59,7 +60,7 @@ What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors: 0
 ---.__________)
 
 It's a tie!
-
+```
 ## How it works:
 The player inputs their choice of Rock (0), Paper (1), or Scissors (2).
 
